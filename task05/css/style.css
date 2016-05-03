@@ -107,6 +107,7 @@ article dl dd{/*dl> 标签用于结合 <dt> （定义列表中的项目）和 <d
 	width:120px;
 	margin:15px;
 	border:1px solid #ccc;
+	display:inline-block;/*将对象呈现为inline对象，但是对象的内容作为block对象呈现。之后的内联对象会被排列在同一行内*/
 }
 article dl dd span{
 	display:block;
