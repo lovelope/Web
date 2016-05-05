@@ -5,3 +5,4 @@
 3.[三栏式布局](https://lovelope.github.io/html/task03/task_1_3.html)  
 4.[定位和居中问题](https://lovelope.github.io/html/task04/index.html)  
 5.[零基础HTML及CSS编码（二）](https://lovelope.github.io/html/task05/index.html)  
+6.[通过HTML及CSS模拟报纸排版](https://lovelope.github.io/html/task06/index.html)  
