@@ -7,3 +7,4 @@
 5.[零基础HTML及CSS编码（二）](https://lovelope.github.io/html/task05/index.html)  
 6.[通过HTML及CSS模拟报纸排版](https://lovelope.github.io/html/task06/index.html)  
 13.[零基础JavaScript编码（一）](https://lovelope.github.io/html/task13/index.html)   
+14.[零基础JavaScript编码（二）](https://lovelope.github.io/html/task14/index.html)  
