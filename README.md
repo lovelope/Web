@@ -9,3 +9,4 @@
 13.[零基础JavaScript编码（一）](https://lovelope.github.io/html/task13/index.html)   
 14.[零基础JavaScript编码（二）](https://lovelope.github.io/html/task14/index.html)   
 15.[零基础JavaScript编码（三）](https://lovelope.github.io/html/task15/index.html)   
+16.[零基础JavaScript编码（四）](https://lovelope.github.io/html/task16/index.html)  
